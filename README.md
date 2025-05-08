@@ -28,8 +28,8 @@ This commands includes
 ### CLIENT:
 
 ```
-# NAME : Rakshitha J
-# REG NO: 212223240135
+# NAME : Bhuvaneshwaran H
+# REG NO: 212223240018
 
 import socket 
 from pythonping import ping 
